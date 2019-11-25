@@ -1,1 +1,1 @@
-# tech-academy-projects
+# Tech-Academy-Projects
